@@ -56,7 +56,7 @@ Sim. A experiência é tão cansativa que passei a usá-lo apenas quando não en
 
 ---
 
-### 💬 Reflexão pessoal
+### Reflexão pessoal
 
 Os aplicativos que gosto têm em comum clareza visual, navegação previsível e respostas rápidas do sistema. Já os que evito apresentam excesso de etapas, feedback confuso e interfaces que ignoram as necessidades reais do usuário. Isso reforça que uma boa UX vai muito além da estética.
 
